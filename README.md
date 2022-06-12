@@ -1,6 +1,6 @@
 # Music-Recommendation System
 ### Home Page
-![Home 1](https://photos.app.goo.gl/BfxvpUEJNhagrk7X6)
+![Home 1](static/images/home1?raw=true "Title")
 ![Home 2](https://drive.google.com/file/d/1Y6Xan5LOqNuH7J0Xfq33Bvg9Salg167-/view?usp=sharing)
 
 ### Sign Up Page
